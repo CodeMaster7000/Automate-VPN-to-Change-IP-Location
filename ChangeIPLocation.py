@@ -8,7 +8,7 @@ try:
 	os.system("windscribe connect")
 	while True:
 		choiceCode = random.choice(codeList)
-		sleep(random.randrange(120, 300))
+		sleep(random.randrange(600, 900))
 		print("Changing IP address...")
 		os.system("windscribe connect " + choiceCode)
 
