@@ -9,3 +9,8 @@ A Python program to automate your VPN to change your IP location on Ubuntu.
 - [Windscribe VPN](https://windscribe.com)
 - Ubuntu
 - Python 3
+
+## Implementations
+
+- Run `python3 ChangeIPLocation.py` in a terminal if you have Mac/Linux.
+- Run `python ChangeIPLocation.py` in a terminal if you have Windows.
