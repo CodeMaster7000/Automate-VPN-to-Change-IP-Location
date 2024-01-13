@@ -10,7 +10,7 @@ A Python program to automate your VPN to change your IP location on Ubuntu.
 - Ubuntu
 - Python 3
 
-## Execute Program
+## Implementations
 
 - Run `python3 ChangeIPLocation.py` in a terminal if you have Mac/Linux.
 - Run `python ChangeIPLocation.py` in a terminal if you have Windows.
